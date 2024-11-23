@@ -1,0 +1,631 @@
+
+
+.back-white {
+    background-color: white;
+}
+
+.background-free-access {
+    background-color: #202020;
+    padding-top: 30px;
+    padding-bottom: 40px;
+
+}
+
+.mic {
+    color: #00FF00;
+    font-size: 60px;
+}
+
+.text {
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.text-0 {
+    color: white;
+    font-size: 28px;
+}
+
+.free-color-1 {
+    color: #00FF00;
+    font-weight: bold;
+    font-family: Caveat;
+}
+
+.color-1 {
+    color: #00FF00;
+}
+
+.button-center {
+    text-align: center;
+}
+
+.button-free-access {
+    width: 80vw;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: #3366FF;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.button-trailer {
+    width: 80vw;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 9px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    border-color: white;
+}
+
+.para-podcast {
+    color: white;
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+.line {
+    text-decoration: line-through;
+}
+
+.free-color {
+    color: #00FF00;
+    font-weight: bold;
+    font-size: 26px;
+    font-family: Caveat;
+}
+
+
+.background-companies-logo {
+    background-color: black;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    text-align: center;
+
+}
+
+.heading-companies-logo {
+    color: #ffffe6;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.heading-companies-logo1 {
+    color: #ffffe6;
+    font-size: 23px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Apple-logo {
+    height: 55px;
+    width: 55px;
+}
+
+.google-logo {
+    height: 55px;
+    width: 78px;
+}
+
+.microsoft-logo {
+    height: 60px;
+    width: 80px;
+}
+
+.jio-logo {
+    height: 90px;
+    width: 55px;
+}
+
+.infosis-logo {
+    height: 60px;
+    width: 60px;
+}
+
+.tcs-logo {
+    height: 55px;
+    width: 80px;
+}
+
+.airtel-logo {
+    height: 55px;
+    width: 75px;
+
+}
+
+.nxtwave-logo {
+    height: 60px;
+    width: 65px;
+}
+
+.background-boadcast {
+
+    background-color: #202020;
+    padding-bottom: 20px;
+}
+
+.head-boadcast {
+    color: white;
+    font-size: 45px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.head-boadcast1 {
+    color: white;
+    font-size: 20px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.para-boadcast {
+    color: #BEBEBE;
+    text-align: center;
+    padding-top: 20px;
+    font-family: Roboto;
+    font-size: 19px;
+}
+
+.para-boadcast1 {
+    color: #BEBEBE;
+    text-align: center;
+    padding-top: 20px;
+    font-family: Roboto;
+    font-size: 13px;
+}
+
+.color-pannel {
+    background-color: #303030;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    color: white;
+    font-size: 10px;
+    padding-bottom: 30px;
+    margin-top: 15px;
+
+}
+
+.head-pannel {
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.clock-logo {
+    font-size: 20px;
+    padding: 15px;
+    color: #808080;
+}
+
+.para-clock {
+    font-size: 16px;
+    padding-top: 12px;
+    color: #DCDCDC;
+}
+
+.head-clock {
+    font-size: 18px;
+    padding-left: 15px;
+    padding-top: 5px;
+    font-weight: bold;
+    color: #C8C8C8;
+}
+
+.para1-clock {
+    font-size: 16px;
+    padding-left: 15px;
+}
+
+.link {
+    font-size: 16px;
+    padding: 15px;
+}
+
+.arrow {
+    font-size: 16px;
+    color: #3366ff;
+}
+
+.background-review {
+    background-color: #282828;
+}
+
+.head-review {
+    color: #ff00ff;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 15px;
+}
+
+.happy {
+    font-size: 19px;
+    color: #FF9933;
+    padding: 4px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.para-review {
+    color: #FF9933;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    width: 250px;
+    height: 7vw;
+
+    margin-top: 30px;
+    border-radius: 15px;
+    border-color: #ff8000;
+    font-size: 16px;
+}
+
+.para-review1 {
+    color: #FF9933;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    width: 250px;
+    height: 3vw;
+
+    margin-top: 30px;
+    border-radius: 15px;
+    border-color: #ff8000;
+    font-size: 16px;
+}
+
+.back-rev-1 {
+    background-color: #383838;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+
+.back-rev-2 {
+    background-color: #383838;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+
+.user1 {
+    font-size: 42px;
+    padding: 13px;
+    margin: 15px;
+    color: #FF66FF;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 40px;
+    border-color: #FF66FF;
+    text-align: center;
+}
+
+.user11 {
+    font-size: 42px;
+    padding: 13px;
+    margin: 15px;
+    color: #FF66FF;
+    margin-top: 20px;
+    border-color: #FF66FF;
+
+
+    text-align: center;
+}
+
+.head-rev {
+    color: #E8E8E8;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.para-rev {
+    font-size: 17px;
+    color: white;
+
+}
+
+.linkdin {
+    font-size: 45px;
+    color: #0066ff;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+.para-rev2 {
+    color: white;
+    padding: 10px;
+}
+
+.user2 {
+    font-size: 42px;
+    padding: 13px;
+    margin: 15px;
+    color: #66ff33;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #66ff33;
+    border-radius: 40px;
+}
+
+.user22 {
+    font-size: 42px;
+    padding: 13px;
+    margin: 15px;
+    color: #66ff33;
+
+    border-color: #66ff33;
+
+}
+
+.user3 {
+    font-size: 42px;
+    padding: 13px;
+    margin: 15px;
+    color: #00ffff;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #00ffff;
+    border-radius: 40px;
+}
+
+.user33 {
+    font-size: 42px;
+    padding: 13px;
+    margin: 15px;
+    color: #00ffff;
+    border-color: #00ffff;
+
+}
+
+.user4 {
+    font-size: 42px;
+    padding: 13px;
+    margin: 15px;
+    color: #ff9933;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ff9933;
+    border-radius: 40px;
+}
+
+.user44 {
+    font-size: 42px;
+    padding: 13px;
+    margin: 15px;
+    color: #ff9933;
+    border-color: #ff9933;
+
+}
+
+.background-Career {
+    background-color: #202020;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+.head-career {
+    font-size: 40px;
+    color: #99cc00;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.head-career1 {
+    font-size: 20px;
+    color: #99cc00;
+    padding: 20px;
+
+}
+
+.microphone-logo {
+    font-size: 40px;
+    padding: 20px;
+    color: #ffcc00;
+}
+
+.head-micro {
+    color: #ffccff;
+    font-size: 20px;
+    padding-top: 25px;
+}
+
+.dollar-logo {
+    font-size: 40px;
+    padding: 20px;
+    color: #0099CC;
+}
+
+.fire-logo {
+    font-size: 40px;
+    padding: 20px;
+    color: #FF6600;
+}
+
+.back1 {
+    background-color: #383838;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+.head11 {
+    color: #FFFF00;
+    font-size: 30px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+
+}
+
+.head12 {
+    color: #FFFF00;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+
+.background-last {
+    background-color: #323f4b;
+    padding-bottom: 25px;
+
+}
+
+.head01 {
+    color: white;
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+.para11 {
+    font-size: 20px;
+    color: #7b8794;
+    font-weight: bold;
+    font-family: Roboto;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+.para12 {
+    font-size: 25px;
+    color: #7b8794;
+    font-weight: bold;
+    font-family: Roboto;
+    padding-left: 25px;
+    padding-top: 20px;
+}
+
+.para13 {
+    font-size: 25px;
+    color: #7b8794;
+    font-weight: bold;
+    font-family: Roboto;
+    padding-left: 25px;
+    padding-top: 20px;
+}
+
+.gmail-logo {
+    font-size: 30px;
+    color: #0066FF;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+.support {
+    font-size: 16px;
+    color: #9aa5b1;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.payment-card-img {
+    padding-left: 15px;
+    width: 70px;
+    height: 40px;
+    margin-top: 10px;
+}
+
+.location-logo {
+    font-size: 20px;
+    color: #9aa5b1;
+    padding-left: 15px;
+    margin-top: 10px;
+
+}
+
+.support1 {
+    font-size: 10px;
+    color: #9aa5b1;
+    padding-left: 15px;
+    margin-top: 4px;
+}
+
+.facebook-logo {
+    font-size: 20px;
+    color: #0033CC;
+}
+
+.insta-logo {
+    font-size: 20px;
+    color: #FF6600;
+    padding-left: 15px;
+}
+
+.twitter-logo {
+    font-size: 20px;
+    color: #0066FF;
+    padding-left: 15px;
+}
+
+.linkdin-logo {
+    font-size: 20px;
+    color: #0033CC;
+    padding-left: 15px;
+}
+
+.youtube-logo {
+    font-size: 20px;
+    color: #FF0000;
+    padding-left: 15px;
+}
+
+.background-name {
+    background-color: #484848;
+    padding-bottom: 40px;
+
+}
+
+.head-name {
+    color: #00ffff;
+    padding-left: 20px;
+    padding-top: 40px;
+    font-size: 27px;
+}
+
+.user {
+    color: #F0F0F0;
+    padding-left: 16px;
+    padding-top: 16px;
+    font-size: 18px;
+}
+
+.user-1 {
+    margin-left: 17px;
+    background-color: #606060;
+    color: white;
+    border-width: 0px;
+    border-radius: 7px;
+    height: 35px;
+    width: 250px;
+    padding-left: 17px;
+    font-size: 18px;
+}
+
+.submit {
+    margin: 17px;
+    background-color: #3366FF;
+    height: 27px;
+    width: 74px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    font-weight: 500;
+    border-width: 0px;
+}
+
+.item {
+    text-align: center;
+    background-color: black;
+    width: 200px;
+    height: 60px;
+    margin: 4px;
+    margin-top: 30px;
+
+}
